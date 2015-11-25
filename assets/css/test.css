@@ -1,0 +1,39 @@
+
+body{
+
+	background-color: #f7f7f7;
+}
+#titlehead{
+	margin:0 auto;
+	text-align: center;
+}
+
+#signup-form{
+	margin: 0 auto;
+}
+
+#footer{
+	margin-top: 2em;
+	text-align: center;
+}
+#button{
+	font-weight: 300;
+}
+#tiltehead p{
+	font-size: 0.8em;
+}
+#footercl{
+	margin:0 auto;
+}
+#qoute{
+	margin-top: 3.5em;
+}
+		@media screen and (max-height: 640px) {
+					#quote {
+				margin-top: 2em;
+			}
+	}
+#footer h6{
+	margin-top: -2em;
+	color: #979797;
+}
